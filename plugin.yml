@@ -1,0 +1,8 @@
+name: DiscordWebhook6
+main: com.hyenaltd.commandHandler.Webhook
+version: 1.0
+api-version: 1.13
+commands:
+ webhook:
+   description: Main command
+   usage: Use /webhook help
